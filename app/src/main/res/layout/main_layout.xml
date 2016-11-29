@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_linearlayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/mian_contentLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+    <!--<android.support.v4.view.ViewPager-->
+    <!--android:id="@+id/viewpage"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="0dp"-->
+    <!--android:layout_weight="1">-->
+
+    <!--</android.support.v4.view.ViewPager>-->
+
+    <View style="@style/DividerHorizontal" />
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:itemBackground="@android:color/holo_red_dark"
+        app:itemIconTint="@color/new_white"
+        app:itemTextColor="@color/new_white"
+        app:menu="@menu/bottom_navigation_main" />
+    <!--
+       app:itemIconTint：设置菜单图标颜色
+       app:itemTextColor：设置文本颜色
+       -->
+</LinearLayout>

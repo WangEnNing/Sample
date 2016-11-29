@@ -1,0 +1,77 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- 设置高度距离 -->
+    <dimen name="height_1">1dp</dimen>
+    <dimen name="height_2">2dp</dimen>
+    <dimen name="height_3">3dp</dimen>
+    <dimen name="height_4">4dp</dimen>
+    <dimen name="height_5">5dp</dimen>
+    <dimen name="height_6">6dp</dimen>
+    <dimen name="height_7">7dp</dimen>
+    <dimen name="height_8">8dp</dimen>
+    <dimen name="height_9">9dp</dimen>
+    <dimen name="height_10">10dp</dimen>
+    <dimen name="height_11">11dp</dimen>
+    <dimen name="height_12">12dp</dimen>
+    <dimen name="height_13">13dp</dimen>
+    <dimen name="height_14">14dp</dimen>
+    <dimen name="height_15">15dp</dimen>
+    <dimen name="height_16">16dp</dimen>
+    <dimen name="height_17">17dp</dimen>
+    <dimen name="height_18">18dp</dimen>
+    <dimen name="height_20">20dp</dimen>
+    <dimen name="height_22">22dp</dimen>
+    <dimen name="height_25">25dp</dimen>
+    <dimen name="height_26">26dp</dimen>
+    <dimen name="height_28">28dp</dimen>
+    <dimen name="height_30">30dp</dimen>
+    <dimen name="height_32">32dp</dimen>
+    <dimen name="height_35">35dp</dimen>
+    <dimen name="height_36">36dp</dimen>
+    <dimen name="height_27">27dp</dimen>
+    <dimen name="height_38">38dp</dimen>
+    <dimen name="height_39">39dp</dimen>
+    <dimen name="height_40">40dp</dimen>
+    <dimen name="height_43">43dp</dimen>
+    <dimen name="height_44">44dp</dimen>
+    <dimen name="height_45">45dp</dimen>
+    <dimen name="height_48">48dp</dimen>
+    <dimen name="height_50">50dp</dimen>
+    <dimen name="height_54">54dp</dimen>
+    <dimen name="height_60">60dp</dimen>
+    <dimen name="height_62">62dp</dimen>
+    <dimen name="height_65">65dp</dimen>
+    <dimen name="height_70">70dp</dimen>
+    <dimen name="height_80">80dp</dimen>
+    <dimen name="height_86">86dp</dimen>
+    <dimen name="height_100">100dp</dimen>
+    <dimen name="height_200">200dp</dimen>
+    <dimen name="height_120">120dp</dimen>
+    <dimen name="height_140">140dp</dimen>
+    <dimen name="height_250">250dp</dimen>
+    <dimen name="height_300">300dp</dimen>
+    <!-- 字体大小 -->
+    <dimen name="text_large40">40sp</dimen>
+    <dimen name="text_large44">44sp</dimen>
+    <dimen name="text_large36">36sp</dimen>
+    <dimen name="text_large35">35sp</dimen>
+    <dimen name="text_large32">32sp</dimen>
+    <dimen name="text_large30">30sp</dimen>
+    <dimen name="text_large26">26sp</dimen>
+    <dimen name="text_large25">25sp</dimen>
+    <dimen name="text_large20">20sp</dimen>
+    <dimen name="text_middle18">18sp</dimen>
+    <dimen name="text_middle17">17sp</dimen>
+    <dimen name="text_middle16">16sp</dimen>
+    <dimen name="text_middle15">15sp</dimen>
+    <dimen name="text_middle14">14sp</dimen>
+    <dimen name="text_small13">13sp</dimen>
+    <dimen name="text_small12">12sp</dimen>
+    <dimen name="text_small10">10sp</dimen>
+    <dimen name="text_small9">9sp</dimen>
+    <dimen name="text_small8">8sp</dimen>
+    <dimen name="text_small6">6sp</dimen>
+
+</resources>

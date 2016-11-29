@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@mipmap/bg"
+        android:scaleType="fitXY" />
+
+    <ImageView
+        android:id="@+id/main_blur_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@mipmap/blur_bg"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/wel_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/height_30"
+        android:gravity="center|bottom"
+        android:text="拨开雾霾见晴天"
+        android:textColor="@color/new_white"
+        android:textSize="@dimen/text_large20" />
+</RelativeLayout>

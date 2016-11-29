@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#684099</color>
+    <color name="colorPrimaryDark">#684099</color>
+    <color name="colorAccent">#684099</color>
+    <!--白天主题-->
+    <color name="day_backgroup_color">#FFFFFFFF</color>
+    <color name="day_one_text_color">#FF000000</color>
+    <color name="day_two_text_color">#c9000000</color>
+    <color name="day_three_text_color">#8A9599</color>
+    <!--夜间主题-->
+    <color name="night_backgroup_color">#3F3F3F</color>
+    <color name="night_one_text_color">#FFbbbbbb</color>
+    <color name="night_two_text_color">#8A9599</color>
+    <color name="night_there_text_color">#8A9599</color>
+    <!-- app主色调-->
+    <color name="new_maincolor">#684099</color>
+    <color name="new_bgcolor">#F7F7F7</color>
+    <!--分割线颜色-->
+    <color name="new_linecolor">#e1e1e1</color>
+    <color name="new_delcolor">#F10000</color>
+    <color name="new_white">#ffffff</color>
+    <!--输入文字前提示颜色-->
+    <color name="new_gray1">#dddddd</color>
+    <color name="new_gray_transparent">#F2dddddd</color>
+    <color name="new_gray_transparent2">#4cdddddd</color>
+    <!--布局中第二行小字信息-->
+    <color name="new_gray2">#b4b4b4</color>
+    <!--静态提示文字颜色(有动态提示时,还有静态提示,动态提示颜色为灰度4,无动态提示,均为灰度3)-->
+    <color name="new_gray3">#969696</color>
+    <!--输入文字颜色-->
+    <color name="new_gray4">#646464</color>
+    <!--静态显示文字颜色如:名称-->
+    <color name="new_gray5">#282828</color>
+    <!--加载更多背景-->
+    <color name="more_bg">#efefefef</color>
+</resources>
